@@ -11,8 +11,7 @@ For new WhatsApp updates check **[WhatsApp incoming updates log](https://github.
 ----------
 ### Installation
 
-```git clone https://github.com/gonzad26/Chat-API.git
-```
+```git clone https://github.com/gonzad26/Chat-API.git```
 
 - **Requires:** [PHP Protobuf](https://github.com/allegro/php-protobuf) and [Curve25519](https://github.com/mgp25/curve25519-php) to enable end to end encryption
 
