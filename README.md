@@ -6,7 +6,7 @@ Interface to WhatsApp Messenger
 
 For new WhatsApp updates check **[WhatsApp incoming updates log](https://github.com/mgp25/Chat-API/wiki/WhatsApp-incoming-updates)**
 
-**01/03/2017 Updated Token and Encryptation, now you can register. Only remains to solve response parse from whatsapp server when you try to login.
+**01/03/2017 Updated Token and Encryptation, now you can register. Only remains to solve response parse from whatsapp server when you try to login.**
 
 ----------
 ### Installation
